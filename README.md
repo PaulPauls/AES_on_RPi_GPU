@@ -18,5 +18,5 @@ The Custom GPU Assembler was first started by [Eric Lorimer](https://rpiplaygrou
 
 ### VPM_Problem
 
-Example Code to showcase the problems encountered while using more than 192byte of the GPUs Virtual Pipelined Memory (VPM) when using the custom GPU Assembler
+Example Code to showcase the problems encountered while using more than 192byte of the GPUs Virtual Pipelined Memory (VPM) when using the custom GPU Assembler.
 
